@@ -5,9 +5,8 @@ bio: My research interests include synthesis of new nanomaterials, surface
   chemistry, delivery of nanoparticles, and neuromodulation with magnetic
   nanoparticles.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - MagneticNanoparticles
+  - Delivery
 social:
   - icon: envelope
     icon_pack: fas
@@ -52,7 +51,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-K﻿eisuke Nagao is a graduate student at the Bioelectronics group in MIT. His research interests include synthesis of new nanomaterials, especially magnetic nanoparticles, surface chemistry for biological applications
+K﻿eisuke Nagao is a graduate student at the Bioelectronics group in MIT. His research interests include synthesis of new nanomaterials, surface chemistry for biological applications (e.g., systemic delivery and targeting), and neuromodulation.
 
-KAlice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}eisuk
